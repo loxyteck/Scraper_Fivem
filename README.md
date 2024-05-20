@@ -29,4 +29,5 @@
 ## Tricks
 ```
   * Use on vps (Faster !)
+  * Add Kreyto.sql on DISCORD
 ```
