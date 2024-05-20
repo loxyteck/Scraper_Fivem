@@ -7,7 +7,7 @@
 
 ## Features
 ```js
-  * SCRAPER FIVE-M
+  * SCRAPER FIVEM
   * Easy to use, Fast
   * Compatible Linux / Win / (didnt tested for macos)
   * Proxy integrated
