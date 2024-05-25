@@ -24,6 +24,7 @@
   * Wait...
   * Scraping User...
   * Done.
+  * Add Kreyto.sql for help.
 ```
 
 ## Tricks
