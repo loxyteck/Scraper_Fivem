@@ -30,5 +30,5 @@
 ## Tricks
 ```
   * Use on vps (Faster !)
-  * Add Kreyto.sql on DISCORD
+  * Add Senko.bin on DISCORD
 ```
